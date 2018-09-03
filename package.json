@@ -1,0 +1,22 @@
+{
+  "name": "portfoliowebsite",
+  "version": "1.0.0",
+  "description": "portfolio website which holds resume and work and information",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScholarMellow/buisnesssite.git"
+  },
+  "author": "Andrew Bermudez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScholarMellow/buisnesssite/issues"
+  },
+  "homepage": "https://github.com/ScholarMellow/buisnesssite#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
